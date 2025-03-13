@@ -16,7 +16,7 @@ This is the QR card component project from Frontend Mentor.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://aokoye.github.io/fm-qr-code-component/)
 
 ## My process
 
